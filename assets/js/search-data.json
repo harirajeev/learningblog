@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Title",
-            "content": "Uncertainty Sampleing .",
+            "content": "Uncertainty Sampleing . ![](my_icons/4_quadrants.png) . /bin/bash: -c: line 0: syntax error near unexpected token `my_icons/4_quadrants.png&#39; /bin/bash: -c: line 0: `[](my_icons/4_quadrants.png)&#39; .",
             "url": "https://harirajeev.github.io/learningblog/2020/04/11/Uncertainity_Sampling.html",
             "relUrl": "/2020/04/11/Uncertainity_Sampling.html",
             "date": " • Apr 11, 2020"
